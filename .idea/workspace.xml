@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a3a3e15-c7ae-428b-aa50-853c15ea1b73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/ansible/swarms.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/commands/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/Untitled" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/aaf-logstash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/authz-audit.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/authz-audit.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/authz-service.1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/authz-service.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/bridge pipeline" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/es" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/filebeat.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../.si/portfolio/work-notes/filebeat.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/format1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/grm_logs_format" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/grok_aaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/mysql" beforeDir="false" afterPath="$PROJECT_DIR$/../.si/portfolio/work-notes/mysql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/oncall" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/scheduler-cli" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/sleep.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/sw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/syntax" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/todo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/xyz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.si/portfolio/work-notes/zoom-nimbus" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learn_py3" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.si/portfolio" />
+  </component>
+  <component name="ProjectId" id="1T0cGfM7zmQGwo3V0Dy58KepRMO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.regions">
+    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learn_py3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="delete_default_vpc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learn_py3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/delete_default_vpc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iam_user" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learn_py3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iam_user.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="regions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learn_py3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_response_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="devops" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../rivigo/devops/scripts/separation_task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../rivigo/devops/scripts/separation_task/test_response_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.regions" />
+        <item itemvalue="Python.api" />
+        <item itemvalue="Python.delete_default_vpc" />
+        <item itemvalue="Python.iam_user" />
+        <item itemvalue="Python.test_response_code" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a3a3e15-c7ae-428b-aa50-853c15ea1b73" name="Default Changelist" comment="" />
+      <created>1572600358417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572600358417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
